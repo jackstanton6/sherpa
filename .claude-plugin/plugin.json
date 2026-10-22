@@ -1,0 +1,15 @@
+{
+  "name": "sherpa",
+  "displayName": "Sherpa",
+  "version": "0.3.0",
+  "description": "An honest job-search toolkit: a six-reviewer resume panel, hidden-job scouting from public ATS feeds, honest ranking, skills gaps, apply packs, interview prep, and a morning brief.",
+  "author": {
+    "name": "Jack Stanton",
+    "url": "https://github.com/jackstanton6"
+  },
+  "homepage": "https://github.com/jackstanton6/sherpa",
+  "repository": "https://github.com/jackstanton6/sherpa",
+  "license": "MIT",
+  "icon": "./assets/icon.png",
+  "keywords": ["jobs", "job-search", "resume", "career", "ats", "interview", "greenhouse", "lever", "ashby", "workable"]
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t">
+  <title id="t">Trail S: a switchback trail shaped like the letter S, with a north star</title>
+  <rect width="256" height="256" rx="128" fill="#0D9488"/>
+  <path d="M176 70 C 120 52, 72 70, 84 104 S 176 140, 172 172 S 120 212, 74 190"
+        fill="none" stroke="#F8FAFC" stroke-width="22" stroke-linecap="round"/>
+  <path d="M176 70 C 120 52, 72 70, 84 104 S 176 140, 172 172 S 120 212, 74 190"
+        fill="none" stroke="#0D9488" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 12"/>
+  <path d="M196 40 l5 13 13 5 -13 5 -5 13 -5 -13 -13 -5 13 -5 z" fill="#FDBA74"/>
+</svg>

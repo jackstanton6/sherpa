@@ -1,0 +1,15 @@
+{
+  "name": "sherpa",
+  "description": "Sherpa, the honest job-search toolkit for Claude Code",
+  "owner": {
+    "name": "Jack Stanton",
+    "url": "https://github.com/jackstanton6"
+  },
+  "plugins": [
+    {
+      "name": "sherpa",
+      "source": "./",
+      "description": "Six-reviewer resume panel, hidden-job scouting from public ATS feeds, honest ranking, apply packs, interview prep and a morning brief."
+    }
+  ]
+}

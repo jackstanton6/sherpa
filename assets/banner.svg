@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" role="img" aria-labelledby="t">
+  <title id="t">Sherpa: the honest job-search toolkit for Claude Code</title>
+  <defs>
+    <clipPath id="card"><rect width="1280" height="400" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+  <rect width="1280" height="400" fill="#F5F1E8"/>
+  <!-- distant ridge along the bottom -->
+  <path d="M0 400 L0 330 L120 250 L210 310 L330 220 L470 330 L560 280 L700 350 L820 260 L930 320 L1060 230 L1180 300 L1280 260 L1280 400 Z" fill="#E7E0D0"/>
+  </g>
+  <!-- cairn mark -->
+  <g transform="translate(96 60)">
+    <ellipse cx="128" cy="204" rx="78" ry="22" fill="#334155"/>
+    <ellipse cx="124" cy="160" rx="60" ry="22" fill="#475569"/>
+    <ellipse cx="132" cy="121" rx="44" ry="18" fill="#64748B"/>
+    <ellipse cx="127" cy="88" rx="30" ry="14" fill="#94A3B8"/>
+    <ellipse cx="130" cy="61" rx="17" ry="10" fill="#F97316"/>
+  </g>
+  <text x="400" y="200" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="112" font-weight="700" fill="#0F172A" letter-spacing="-2">sherpa</text>
+  <text x="404" y="252" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" fill="#0F766E">The honest job-search toolkit for Claude Code</text>
+  <text x="404" y="298" font-family="ui-monospace, 'SF Mono', Consolas, monospace" font-size="24" fill="#64748B">/sherpa:scout  ·  /sherpa:resume  ·  /sherpa:apply</text>
+</svg>

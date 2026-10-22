@@ -1,0 +1,152 @@
+{
+  "fixture:01": {
+    "company": "Northwind Analytics",
+    "tier": "Apply now",
+    "filter_reason": null
+  },
+  "fixture:02": {
+    "company": "Bluebird Health",
+    "tier": "Apply now",
+    "filter_reason": null
+  },
+  "fixture:03": {
+    "company": "Copperline Energy",
+    "tier": "Apply now",
+    "filter_reason": null
+  },
+  "fixture:04": {
+    "company": "Larkspur Retail",
+    "tier": "Apply now",
+    "filter_reason": null
+  },
+  "fixture:05": {
+    "company": "Fieldstone Bank",
+    "tier": "Apply now",
+    "filter_reason": null
+  },
+  "fixture:06": {
+    "company": "Granite Logistics",
+    "tier": "Apply now",
+    "filter_reason": null
+  },
+  "fixture:07": {
+    "company": "Harbor Insurance",
+    "tier": "Apply now",
+    "filter_reason": null
+  },
+  "fixture:08": {
+    "company": "Juniper Labs",
+    "tier": "Apply now",
+    "filter_reason": null
+  },
+  "fixture:09": {
+    "company": "Kestrel Fintech",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:10": {
+    "company": "Lumen Media",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:11": {
+    "company": "Maple Health",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:12": {
+    "company": "Nimbus Cloud",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:13": {
+    "company": "Orchid Bio",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:14": {
+    "company": "Pinecrest Retail",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:15": {
+    "company": "Quarry Freight",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:16": {
+    "company": "Redwood County",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:17": {
+    "company": "Summit Education",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:18": {
+    "company": "Tidewater Ads",
+    "tier": "Stretch",
+    "filter_reason": null
+  },
+  "fixture:19": {
+    "company": "Umber AI",
+    "tier": "Skip",
+    "filter_reason": null
+  },
+  "fixture:20": {
+    "company": "Vantage Capital",
+    "tier": "Skip",
+    "filter_reason": null
+  },
+  "fixture:21": {
+    "company": "Willow Health",
+    "tier": "Skip",
+    "filter_reason": null
+  },
+  "fixture:22": {
+    "company": "Xenon Data",
+    "tier": "Skip",
+    "filter_reason": null
+  },
+  "fixture:23": {
+    "company": "Yarrow Retail",
+    "tier": "Skip",
+    "filter_reason": null
+  },
+  "fixture:24": {
+    "company": "Zephyr Apps",
+    "tier": "Skip",
+    "filter_reason": null
+  },
+  "fixture:25": {
+    "company": "Acorn Corp",
+    "tier": "Skip",
+    "filter_reason": "location: onsite in New York"
+  },
+  "fixture:26": {
+    "company": "Birch Defense",
+    "tier": "Skip",
+    "filter_reason": "work rights: requires active security clearance"
+  },
+  "fixture:27": {
+    "company": "Cedar Casino Group",
+    "tier": "Skip",
+    "filter_reason": "deal-breaker: gambling"
+  },
+  "fixture:28": {
+    "company": "Dune Ltd",
+    "tier": "Skip",
+    "filter_reason": "work rights: UK right to work required"
+  },
+  "fixture:29": {
+    "company": "Elm Staffing",
+    "tier": "Skip",
+    "filter_reason": "salary: max 50000 below floor 85000"
+  },
+  "fixture:30": {
+    "company": "Fern Group",
+    "tier": "Skip",
+    "filter_reason": "work mode: onsite only, profile wants remote or hybrid"
+  }
+}

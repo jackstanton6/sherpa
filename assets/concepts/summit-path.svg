@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t">
+  <title id="t">Sherpa: a peak with a trail leading to a summit flag</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1222"/>
+      <stop offset="1" stop-color="#16233D"/>
+    </linearGradient>
+    <linearGradient id="peak" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#sky)"/>
+  <!-- far ridge -->
+  <path d="M18 206 L86 118 L124 160 L150 132 L238 206 Z" fill="#1F3557"/>
+  <!-- main peak -->
+  <path d="M52 206 L140 70 L228 206 Z" fill="url(#peak)"/>
+  <path d="M140 70 L228 206 L170 206 Z" fill="#0F766E" opacity=".55"/>
+  <!-- snow cap -->
+  <path d="M140 70 L116 107 L130 100 L140 112 L151 99 L164 107 Z" fill="#F1F5F9"/>
+  <!-- the trail -->
+  <path d="M78 214 C 120 206, 96 184, 128 176 S 168 160, 132 146 S 118 126, 140 118"
+        fill="none" stroke="#F8FAFC" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 11"/>
+  <!-- summit flag -->
+  <path d="M140 72 V 30" stroke="#F8FAFC" stroke-width="5" stroke-linecap="round"/>
+  <path d="M142 30 L178 41 L142 53 Z" fill="#F97316"/>
+  <!-- ground -->
+  <rect x="18" y="206" width="220" height="6" rx="3" fill="#2DD4BF" opacity=".25"/>
+</svg>
